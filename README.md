@@ -66,19 +66,19 @@
 </div>
 
 <!-- BLOG-POST-LIST:START -->
+- [The Ghost in the Code: Why Autonomous Weapons Defy Human Law](https://aviperera.com/autonomous-weapons-ethics-accountability-gap/)
 - [Surviving the Antigravity 2.0 Update: How Google Broke My Workflow (And How to Fix It)](https://aviperera.com/fix-antigravity-2-rollback-guide/)
 - [The Illusion of Affordability: Why We Are Rich in Distractions and Poor in Sovereignty](https://aviperera.com/illusion-of-affordability-price-divergence/)
 - [IDF SMASH 2000](https://aviperera.com/smash-2000/)
 - [Clearview AI](https://aviperera.com/clearview-ai/)
-- [PredPol (Geolitica)](https://aviperera.com/predpol-geolitica/)
 
 <details>
 <summary><b>📖 Load More Publications</b></summary>
 
+- [PredPol (Geolitica)](https://aviperera.com/predpol-geolitica/)
 - [Palantir Project Maven](https://aviperera.com/palantir-project-maven/)
 - [MQ-28 Ghost Bat](https://aviperera.com/mq-28-ghost-bat/)
 - [The Global Shell Game: What “Meaningful Human Control” Actually Means—and Why No One Agrees](https://aviperera.com/meaningful-human-control-autonomous-weapons/)
 - [The Consensus Trap: How Five Nations Quietly Derailed the Global Ban on Killer Robots](https://aviperera.com/consensus-trap-global-ban-killer-robots/)
-- [The Algorithmic Battlefield: 5 Takeaways from the Silent Revolution in Warfare](https://aviperera.com/algorithmic-battlefield-ai-modern-warfare/)
 </details>
 <!-- BLOG-POST-LIST:END -->
