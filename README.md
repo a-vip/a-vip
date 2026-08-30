@@ -66,19 +66,19 @@
 </div>
 
 <!-- BLOG-POST-LIST:START -->
+- [The New Colonisers: How the Digital Nomad Economy Is Recolonising the Global South](https://aviperera.com/the-new-colonisers-how-the-digital-nomad-economy-is-recolonising-the-global-south/)
 - [Four Objectives, Zero Wins: Mearsheimer’s Reckoning With America’s Iran War](https://aviperera.com/mearsheimer-iran-war-2026-analysis/)
 - [When Algorithms Go to War: Inside the New Military-AI-Industrial Complex](https://aviperera.com/when-algorithms-go-to-war/)
 - [The Algorithm’s Kill Chain: The Future of Military AI](https://aviperera.com/the-algorithms-kill-chain-the-future-of-military-ai/)
 - [Schema Sovereignty &amp; AI Citations: Death of Blue Links](https://aviperera.com/schema-sovereignty-ai-citations-schema-seo/)
-- [Parallelism Over Pixels: Why the Encoder-Free 12B and DiffusionGemma are Rebuilding the Developer Stack](https://aviperera.com/parallel-diffusion-gemma-encoder-free-developer-stack/)
 
 <details>
 <summary><b>📖 Load More Publications</b></summary>
 
+- [Parallelism Over Pixels: Why the Encoder-Free 12B and DiffusionGemma are Rebuilding the Developer Stack](https://aviperera.com/parallel-diffusion-gemma-encoder-free-developer-stack/)
 - [Inside the UN Playbook for Algorithmic Warfare](https://aviperera.com/un-playbook-autonomous-warfare-lessons/)
 - [The Ghost in the Code: Why Autonomous Weapons Defy Human Law](https://aviperera.com/autonomous-weapons-ethics-accountability-gap/)
 - [Surviving the Antigravity 2.0 Update: How Google Broke My Workflow (And How to Fix It)](https://aviperera.com/fix-antigravity-2-rollback-guide/)
 - [The Illusion of Affordability: Why We Are Rich in Distractions and Poor in Sovereignty](https://aviperera.com/illusion-of-affordability-price-divergence/)
-- [IDF SMASH 2000](https://aviperera.com/smash-2000/)
 </details>
 <!-- BLOG-POST-LIST:END -->
