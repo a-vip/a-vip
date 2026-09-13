@@ -66,19 +66,19 @@
 </div>
 
 <!-- BLOG-POST-LIST:START -->
+- [The Governance Gap: UN’s 2026 Science and Technology Report](https://aviperera.com/un-2026-science-and-technology-report/)
 - [The Wonderful World of Context](https://aviperera.com/the-wonderful-world-of-context/)
 - [WAIC 2026: Shanghai’s Agentic AI Safety Forum](https://aviperera.com/waic-2026-agentic-ai-safety-forum-analysis/)
 - [The New Colonisers: How the Digital Nomad Economy Is Recolonising the Global South](https://aviperera.com/the-new-colonisers-how-the-digital-nomad-economy-is-recolonising-the-global-south/)
 - [Four Objectives, Zero Wins: Mearsheimer’s Reckoning With America’s Iran War](https://aviperera.com/mearsheimer-iran-war-2026-analysis/)
-- [When Algorithms Go to War: Inside the New Military-AI-Industrial Complex](https://aviperera.com/when-algorithms-go-to-war/)
 
 <details>
 <summary><b>📖 Load More Publications</b></summary>
 
+- [When Algorithms Go to War: Inside the New Military-AI-Industrial Complex](https://aviperera.com/when-algorithms-go-to-war/)
 - [The Algorithm’s Kill Chain: The Future of Military AI](https://aviperera.com/the-algorithms-kill-chain-the-future-of-military-ai/)
 - [Schema Sovereignty &amp; AI Citations: Death of Blue Links](https://aviperera.com/schema-sovereignty-ai-citations-schema-seo/)
 - [Parallelism Over Pixels: Why the Encoder-Free 12B and DiffusionGemma are Rebuilding the Developer Stack](https://aviperera.com/parallel-diffusion-gemma-encoder-free-developer-stack/)
 - [Inside the UN Playbook for Algorithmic Warfare](https://aviperera.com/un-playbook-autonomous-warfare-lessons/)
-- [The Ghost in the Code: Why Autonomous Weapons Defy Human Law](https://aviperera.com/autonomous-weapons-ethics-accountability-gap/)
 </details>
 <!-- BLOG-POST-LIST:END -->
