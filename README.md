@@ -66,19 +66,19 @@
 </div>
 
 <!-- BLOG-POST-LIST:START -->
+- [The Thucydides Trap Returns: What Xi Told Trump in the Oval Office, and What Washington Chose Not to Hear](https://aviperera.com/the-thucydides-trap-returns-what-xi-told-trump-in-the-oval-office-and-what-washington-chose-not-to-hear/)
 - [Disarmament Toolkit 2026: What UNRCPD Taught Me About Autonomous Weapons, and What It Wouldn’t Name](https://aviperera.com/disarmament-toolkit-2026-reflections/)
 - [Autonomous Weapons Are Not the Moral Choice](https://aviperera.com/autonomous-weapons-are-not-the-moral-choice/)
 - [The Governance Gap: UN’s 2026 Science and Technology Report](https://aviperera.com/un-2026-science-and-technology-report/)
 - [The Wonderful World of Context](https://aviperera.com/the-wonderful-world-of-context/)
-- [WAIC 2026: Shanghai’s Agentic AI Safety Forum](https://aviperera.com/waic-2026-agentic-ai-safety-forum-analysis/)
 
 <details>
 <summary><b>📖 Load More Publications</b></summary>
 
+- [WAIC 2026: Shanghai’s Agentic AI Safety Forum](https://aviperera.com/waic-2026-agentic-ai-safety-forum-analysis/)
 - [The New Colonisers: How the Digital Nomad Economy Is Recolonising the Global South](https://aviperera.com/the-new-colonisers-how-the-digital-nomad-economy-is-recolonising-the-global-south/)
 - [Four Objectives, Zero Wins: Mearsheimer’s Reckoning With America’s Iran War](https://aviperera.com/mearsheimer-iran-war-2026-analysis/)
 - [When Algorithms Go to War: Inside the New Military-AI-Industrial Complex](https://aviperera.com/when-algorithms-go-to-war/)
 - [The Algorithm’s Kill Chain: The Future of Military AI](https://aviperera.com/the-algorithms-kill-chain-the-future-of-military-ai/)
-- [Schema Sovereignty &amp; AI Citations: Death of Blue Links](https://aviperera.com/schema-sovereignty-ai-citations-schema-seo/)
 </details>
 <!-- BLOG-POST-LIST:END -->
