@@ -66,19 +66,19 @@
 </div>
 
 <!-- BLOG-POST-LIST:START -->
-- [Vision 60 Q-UGV](https://aviperera.com/vision-60-q-ugv/)
-- [MQ-9 Reaper](https://aviperera.com/mq-9-reaper/)
-- [Abliteration.ai and the End of the Guardrail Assumption: What It Means for International Security](https://aviperera.com/abliteration-ai-removing-guardrails-international-security/)
-- [Why Astrology Is a Form of Prejudice: The Same Bias in a Softer Costume](https://aviperera.com/astrology-is-prejudice/)
-- [Magnifica Humanitas: Reading Pope Leo XIV’s AI Encyclical](https://aviperera.com/magnifica-humanitas-ai-encyclical-commentary/)
+- [Abolishing Columbus Day: Genocide and historical reckoning](https://aviperera.com/abolish-columbus-day/)
+- [Alex Ballistic-Protected Humanoid (IHMC)](https://aviperera.com/alex-ballistic-protected-humanoid-ihmc/)
+- [Foundation Phantom MK-1 and MK-2](https://aviperera.com/foundation-phantom-mk-1-and-mk-2/)
+- [ARCV MULE](https://aviperera.com/arcv-mule/)
+- [Unitree B2 Combat Mod](https://aviperera.com/unitree-b2-combat-mod/)
 
 <details>
 <summary><b>📖 Load More Publications</b></summary>
 
-- [The Thucydides Trap Returns: What Xi Told Trump in the Oval Office, and What Washington Chose Not to Hear](https://aviperera.com/the-thucydides-trap-returns-what-xi-told-trump-in-the-oval-office-and-what-washington-chose-not-to-hear/)
-- [Disarmament Toolkit 2026: What UNRCPD Taught Me About Autonomous Weapons, and What It Wouldn’t Name](https://aviperera.com/disarmament-toolkit-2026-reflections/)
-- [Autonomous Weapons Are Not the Moral Choice](https://aviperera.com/autonomous-weapons-are-not-the-moral-choice/)
-- [The Governance Gap: UN’s 2026 Science and Technology Report](https://aviperera.com/un-2026-science-and-technology-report/)
-- [The Wonderful World of Context](https://aviperera.com/the-wonderful-world-of-context/)
+- [Dating Apps, Loneliness and the Pipeline to Extremism](https://aviperera.com/dating-apps-loneliness-extremism/)
+- [Vision 60 Q-UGV](https://aviperera.com/vision-60-q-ugv/)
+- [MQ-9 Reaper](https://aviperera.com/mq-9-reaper/)
+- [Abliteration.ai and the End of the Guardrail Assumption: What It Means for International Security](https://aviperera.com/abliteration-ai-removing-guardrails-international-security/)
+- [Why Astrology Is a Form of Prejudice: The Same Bias in a Softer Costume](https://aviperera.com/astrology-is-prejudice/)
 </details>
 <!-- BLOG-POST-LIST:END -->
