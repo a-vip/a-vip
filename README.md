@@ -66,19 +66,19 @@
 </div>
 
 <!-- BLOG-POST-LIST:START -->
+- [US Execution Global Online Livestream and Law](https://aviperera.com/hasan-execution-livestream-law/)
+- [Switchblade 300 and 600 Loitering Munitions](https://aviperera.com/switchblade-300-600/)
 - [Abolishing Columbus Day: Genocide and historical reckoning](https://aviperera.com/abolish-columbus-day/)
 - [Alex Ballistic-Protected Humanoid (IHMC)](https://aviperera.com/alex-ballistic-protected-humanoid-ihmc/)
 - [Foundation Phantom MK-1 and MK-2](https://aviperera.com/foundation-phantom-mk-1-and-mk-2/)
-- [ARCV MULE](https://aviperera.com/arcv-mule/)
-- [Unitree B2 Combat Mod](https://aviperera.com/unitree-b2-combat-mod/)
 
 <details>
 <summary><b>📖 Load More Publications</b></summary>
 
+- [ARCV MULE](https://aviperera.com/arcv-mule/)
+- [Unitree B2 Combat Mod](https://aviperera.com/unitree-b2-combat-mod/)
 - [Dating Apps, Loneliness and the Pipeline to Extremism](https://aviperera.com/dating-apps-loneliness-extremism/)
 - [Vision 60 Q-UGV](https://aviperera.com/vision-60-q-ugv/)
 - [MQ-9 Reaper](https://aviperera.com/mq-9-reaper/)
-- [Abliteration.ai and the End of the Guardrail Assumption: What It Means for International Security](https://aviperera.com/abliteration-ai-removing-guardrails-international-security/)
-- [Why Astrology Is a Form of Prejudice: The Same Bias in a Softer Costume](https://aviperera.com/astrology-is-prejudice/)
 </details>
 <!-- BLOG-POST-LIST:END -->
