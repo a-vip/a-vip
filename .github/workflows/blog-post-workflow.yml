@@ -16,48 +16,90 @@ jobs:
       - name: Fetch and Update README
         run: |
           cat << 'EOF' > update_readme.py
-          import urllib.request, json, re
-          
-          url = 'https://api.rss2json.com/v1/api.json?rss_url=https://aviperera.com/feed/'
-          req = urllib.request.Request(url, headers={'User-Agent': 'Mozilla/5.0'})
-          
-          try:
-              with urllib.request.urlopen(req) as response:
-                  data = json.loads(response.read().decode())
-              
-              if data.get("status") != "ok":
-                  print("Error fetching RSS:", data)
-                  exit(1)
+          import urllib.request, json, html, re, sys
+
+          def fetch_posts():
+              # Primary: Direct WordPress REST API (fast, reliable, unblocked, structured JSON)
+              try:
+                  url = "https://aviperera.com/wp-json/wp/v2/posts?per_page=15"
+                  req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"})
+                  with urllib.request.urlopen(req, timeout=20) as resp:
+                      data = json.loads(resp.read().decode("utf-8"))
+                      items = []
+                      for post in data:
+                          raw_title = post.get("title", {}).get("rendered", "")
+                          title = html.unescape(raw_title).strip()
+                          link = post.get("link", "").strip()
+                          if title and link:
+                              items.append({"title": title, "link": link})
+                      if items:
+                          print(f"Retrieved {len(items)} posts via WordPress REST API.")
+                          return items
+              except Exception as e:
+                  print(f"WordPress REST API fetch failed: {e}")
+
+              # Fallback: Direct RSS feed from aviperera.com
+              try:
+                  import xml.etree.ElementTree as ET
+                  url = "https://aviperera.com/feed/"
+                  req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"})
+                  with urllib.request.urlopen(req, timeout=20) as resp:
+                      raw = resp.read().decode("utf-8", errors="replace")
                   
-              items = data.get("items", [])[:15]
-              
+                  # Inject xmlns:media if referenced in feed but omitted in root tag
+                  if "xmlns:media" not in raw:
+                      raw = raw.replace("<rss ", '<rss xmlns:media="http://search.yahoo.com/mrss/" ', 1)
+
+                  root = ET.fromstring(raw)
+                  items = []
+                  for item in root.findall(".//item"):
+                      t_elem = item.find("title")
+                      l_elem = item.find("link")
+                      title = html.unescape(t_elem.text.strip()) if t_elem is not None and t_elem.text else ""
+                      link = l_elem.text.strip() if l_elem is not None and l_elem.text else ""
+                      if title and link:
+                          items.append({"title": title, "link": link})
+                  if items:
+                      print(f"Retrieved {len(items)} posts via direct RSS feed fallback.")
+                      return items[:15]
+              except Exception as e:
+                  print(f"RSS feed fallback failed: {e}")
+
+              return []
+
+          try:
+              items = fetch_posts()
+              if not items:
+                  print("Error: Could not retrieve any blog posts.")
+                  sys.exit(1)
+
               primary_items = items[:5]
               remaining_items = items[5:]
-              
+
               posts_md = "\n".join([f"- [{item['title']}]({item['link']})" for item in primary_items])
-              
+
               if remaining_items:
                   posts_md += "\n\n<details>\n<summary><b>📖 Load More Publications</b></summary>\n\n"
                   posts_md += "\n".join([f"- [{item['title']}]({item['link']})" for item in remaining_items])
                   posts_md += "\n</details>"
-              
+
               with open("README.md", "r", encoding="utf-8") as f:
                   readme = f.read()
-                  
+
               new_readme = re.sub(
                   r"<!-- BLOG-POST-LIST:START -->.*<!-- BLOG-POST-LIST:END -->",
                   f"<!-- BLOG-POST-LIST:START -->\n{posts_md}\n<!-- BLOG-POST-LIST:END -->",
                   readme,
                   flags=re.DOTALL
               )
-              
+
               with open("README.md", "w", encoding="utf-8") as f:
                   f.write(new_readme)
-                  
+
               print("Successfully updated README.md with latest posts.")
           except Exception as e:
-              print("Failed to update README:", e)
-              exit(1)
+              print(f"Failed to update README: {e}")
+              sys.exit(1)
           EOF
           python update_readme.py
           

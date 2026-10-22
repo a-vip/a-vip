@@ -66,19 +66,24 @@
 </div>
 
 <!-- BLOG-POST-LIST:START -->
+- [V-BAT (MQ-35)](https://aviperera.com/v-bat-mq-35/)
+- [Norinco Fuxi and NUDT Combat Humanoids](https://aviperera.com/norinco-fuxi-and-nudt-combat-humanoids/)
+- [FEDOR Skybot F-850](https://aviperera.com/fedor-skybot-f-850/)
 - [Character.AI’s Bankruptcy Was Foreseeable: What the Collapse of an AI Companion Giant Means](https://aviperera.com/character-ai-bankruptcy/)
 - [US Execution Global Online Livestream and Law](https://aviperera.com/hasan-execution-livestream-law/)
-- [Switchblade 300 and 600 Loitering Munitions](https://aviperera.com/switchblade-300-600/)
-- [Abolishing Columbus Day: Genocide and historical reckoning](https://aviperera.com/abolish-columbus-day/)
-- [Alex Ballistic-Protected Humanoid (IHMC)](https://aviperera.com/alex-ballistic-protected-humanoid-ihmc/)
 
 <details>
 <summary><b>📖 Load More Publications</b></summary>
 
+- [Switchblade 300 and 600 Loitering Munitions](https://aviperera.com/switchblade-300-600/)
+- [Abolishing Columbus Day: Genocide and historical reckoning](https://aviperera.com/abolish-columbus-day/)
+- [Alex Ballistic-Protected Humanoid (IHMC)](https://aviperera.com/alex-ballistic-protected-humanoid-ihmc/)
 - [Foundation Phantom MK-1 and MK-2](https://aviperera.com/foundation-phantom-mk-1-and-mk-2/)
 - [ARCV MULE](https://aviperera.com/arcv-mule/)
 - [Unitree B2 Combat Mod](https://aviperera.com/unitree-b2-combat-mod/)
 - [Dating Apps, Loneliness and the Pipeline to Extremism](https://aviperera.com/dating-apps-loneliness-extremism/)
 - [Vision 60 Q-UGV](https://aviperera.com/vision-60-q-ugv/)
+- [MQ-9 Reaper](https://aviperera.com/mq-9-reaper/)
+- [Abliteration.ai and the End of the Guardrail Assumption: What It Means for International Security](https://aviperera.com/abliteration-ai-removing-guardrails-international-security/)
 </details>
 <!-- BLOG-POST-LIST:END -->
