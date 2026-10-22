@@ -51,6 +51,15 @@
         <li>🎓 <strong>University of Cambridge</strong></li>
         <li>⚖️ <strong>University of Buckingham</strong></li>
       </ul>
+      <h3>🛰️ Research & Intelligence Infrastructure</h3>
+      <ul>
+        <li>📚 <strong><a href="https://github.com/a-vip/laws-open-dataset">LAWS Open Dataset</a>:</strong> Open-access database of autonomous weapon systems, Article 36 benchmarks & Zenodo DOI.</li>
+        <li>🎓 <strong><a href="https://github.com/a-vip/academic-citation-sentinel">Academic Citation Sentinel</a>:</strong> Automated citation tracker, OpenAlex/arXiv monitor & BibTeX registry.</li>
+        <li>⚡ <strong><a href="https://github.com/a-vip/awesome-autonomous-weapons-systems">Awesome Autonomous Weapons Systems</a>:</strong> Curated knowledge base on military AI doctrine & UN CCW frameworks.</li>
+        <li>🧠 <strong><a href="https://github.com/a-vip/geo-knowledge-sentinel">GEO Knowledge Sentinel</a>:</strong> Generative Engine Optimization & entity graph validator for LLM citations.</li>
+        <li>📡 <strong><a href="https://github.com/a-vip/laws-regulatory-radar">LAWS Regulatory Radar</a>:</strong> Autonomous OSINT tracker for UN CCW and defense AI preprints.</li>
+        <li>🏛️ <strong><a href="https://github.com/a-vip/avi-research-archive">Avi Research Archive</a>:</strong> Canonical Markdown archive of military AI dossiers and governance monographs.</li>
+      </ul>
     </td>
     <td width="40%" valign="top" align="center" style="border: none;">
       <img src="https://github-readme-activity-graph.vercel.app/graph?username=a-vip&theme=react-dark&hide_border=true&bg_color=00000000" alt="Activity Graph" width="100%"/>
