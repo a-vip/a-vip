@@ -75,15 +75,17 @@
 </div>
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI’s Agent Hacked Australia’s Medicare Portal: What the 84-Day Timeline Reveals](https://aviperera.com/openai-agent-australia-medicare-hack/)
+- [Unitree H1 and H2](https://aviperera.com/unitree-h1-h2/)
 - [Has Trump Become a Dictator? What the Evidence Shows, and What It Means for the World](https://aviperera.com/is-trump-a-dictator-evidence-law-international-order/)
 - [PHP2Shell: How an AI-Assisted Discovery Pulled Governments Offline, and What It Means for Law and Global Security](https://aviperera.com/php2shell-ai-discovered-php-vulnerability/)
 - [V-BAT (MQ-35)](https://aviperera.com/v-bat-mq-35/)
-- [Norinco Fuxi and NUDT Combat Humanoids](https://aviperera.com/norinco-fuxi-and-nudt-combat-humanoids/)
-- [FEDOR Skybot F-850](https://aviperera.com/fedor-skybot-f-850/)
 
 <details>
 <summary><b>📖 Load More Publications</b></summary>
 
+- [Norinco Fuxi and NUDT Combat Humanoids](https://aviperera.com/norinco-fuxi-and-nudt-combat-humanoids/)
+- [FEDOR Skybot F-850](https://aviperera.com/fedor-skybot-f-850/)
 - [Character.AI’s Bankruptcy Was Foreseeable: What the Collapse of an AI Companion Giant Means](https://aviperera.com/character-ai-bankruptcy/)
 - [US Execution Global Online Livestream and Law](https://aviperera.com/hasan-execution-livestream-law/)
 - [Switchblade 300 and 600 Loitering Munitions](https://aviperera.com/switchblade-300-600/)
@@ -92,7 +94,5 @@
 - [Foundation Phantom MK-1 and MK-2](https://aviperera.com/foundation-phantom-mk-1-and-mk-2/)
 - [ARCV MULE](https://aviperera.com/arcv-mule/)
 - [Unitree B2 Combat Mod](https://aviperera.com/unitree-b2-combat-mod/)
-- [Dating Apps, Loneliness and the Pipeline to Extremism](https://aviperera.com/dating-apps-loneliness-extremism/)
-- [Vision 60 Q-UGV](https://aviperera.com/vision-60-q-ugv/)
 </details>
 <!-- BLOG-POST-LIST:END -->
