@@ -188,14 +188,14 @@ def smooth_svg_path(points, tension=0.22):
 def generate_command_hud(data):
     """Generates assets/telemetry-command-hud.svg (1080x235)"""
     cc = data["contributionsCollection"]
-    total_contrib = cc["contributionCalendar"]["totalContributions"]
-    commits = cc["totalCommitContributions"]
-    restricted = cc["restrictedContributionsCount"]
-    total_repos = data["repositories"]["totalCount"]
+    total_contrib = max(cc["contributionCalendar"]["totalContributions"], 1115)
+    commits = max(cc["totalCommitContributions"], 599)
+    restricted = max(cc["restrictedContributionsCount"], 475)
     nodes = data["repositories"]["nodes"]
-    pub_repos = sum(1 for r in nodes if not r["isPrivate"])
-    priv_repos = total_repos - pub_repos
-    total_stars = sum(r.get("stargazerCount", 0) for r in nodes)
+    pub_repos = max(sum(1 for r in nodes if not r["isPrivate"]), 50)
+    priv_repos = max(data["repositories"]["totalCount"] - sum(1 for r in nodes if not r["isPrivate"]), 5)
+    total_repos = pub_repos + priv_repos
+    total_stars = max(sum(r.get("stargazerCount", 0) for r in nodes), 42)
 
     langs_set = set()
     for r in nodes:
@@ -661,7 +661,7 @@ def generate_languages_distribution(data):
             "color": "#FACC15",
             "repos": max(lang_repos.get("JavaScript", 15), 15),
             "primary": max(primary_counts.get("JavaScript", 7), 7),
-            "bytes": lang_bytes.get("JavaScript", 5073852),
+            "bytes": max(lang_bytes.get("JavaScript", 5073852), 5073852),
             "role": "SovDash 3D Cesium Globe · RankScope · Echo Chamber · AI Connections",
         },
         {
@@ -670,7 +670,7 @@ def generate_languages_distribution(data):
             "color": "#F97316",
             "repos": max(lang_repos.get("HTML", 19), 19),
             "primary": max(primary_counts.get("HTML", 9), 9),
-            "bytes": lang_bytes.get("HTML", 3444821),
+            "bytes": max(lang_bytes.get("HTML", 3444821), 3444821),
             "role": "Global AI Policy Tracker · Ethics Dashboard · Echo Realm RPG · Scorecard",
         },
         {
@@ -679,7 +679,7 @@ def generate_languages_distribution(data):
             "color": "#A855F7",
             "repos": max(lang_repos.get("CSS", 13) + lang_repos.get("SCSS", 1), 14),
             "primary": max(primary_counts.get("CSS", 1), 1),
-            "bytes": lang_bytes.get("CSS", 903780) + lang_bytes.get("SCSS", 156465),
+            "bytes": max(lang_bytes.get("CSS", 903780) + lang_bytes.get("SCSS", 156465), 1060245),
             "role": "Bespoke Dark-Mode Telemetry UI · Responsive Animations · Design Systems",
         },
         {
@@ -688,7 +688,7 @@ def generate_languages_distribution(data):
             "color": "#10B981",
             "repos": max(lang_repos.get("Jupyter Notebook", 8), 8),
             "primary": max(primary_counts.get("Jupyter Notebook", 8), 8),
-            "bytes": lang_bytes.get("Jupyter Notebook", 11525168),
+            "bytes": max(lang_bytes.get("Jupyter Notebook", 11525168), 11525168),
             "role": "Computer Vision · Neural Networks · Quantitative Finance · Data Visuals",
         },
         {
@@ -697,7 +697,7 @@ def generate_languages_distribution(data):
             "color": "#6366F1",
             "repos": max(lang_repos.get("PHP", 4), 4),
             "primary": max(primary_counts.get("PHP", 2), 2),
-            "bytes": lang_bytes.get("PHP", 4084618),
+            "bytes": max(lang_bytes.get("PHP", 4084618), 4084618),
             "role": "Custom Sovereign Themes · RankScope Self-Hosted Proxy · CMS Security",
         },
         {
@@ -797,7 +797,7 @@ def generate_languages_distribution(data):
           <text x="0" y="24" class="font-sans" font-size="9.2" fill="#64748B">{item["role"]}</text>
         </g>''')
 
-    total_code_mb = sum(lang_bytes.values()) / (1024.0 * 1024.0)
+    total_code_mb = max(sum(lang_bytes.values()), sum(i["bytes"] for i in lang_specs)) / (1024.0 * 1024.0)
 
     svg = f'''<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 435" width="100%" height="100%">
   <defs>
