@@ -1,0 +1,164 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 435" width="100%" height="100%">
+  <defs>
+    <linearGradient id="langBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#060B14"/>
+      <stop offset="50%" stop-color="#0A1220"/>
+      <stop offset="100%" stop-color="#070D18"/>
+    </linearGradient>
+    <pattern id="langGrid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M 24 0 L 0 0 0 24" fill="none" stroke="#1E293B" stroke-width="0.6" stroke-opacity="0.4"/>
+    </pattern>
+  </defs>
+
+  <style>
+    .font-mono { font-family: 'JetBrains Mono', 'Fira Code', 'SFMono-Regular', Consolas, monospace; }
+    .font-sans { font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; }
+  </style>
+
+  <!-- Outer Frame -->
+  <rect x="1" y="1" width="1078" height="433" rx="12" fill="url(#langBg)" stroke="#1E3A5F" stroke-width="1.5"/>
+  <rect x="2" y="2" width="1076" height="431" rx="11" fill="url(#langGrid)"/>
+
+  <!-- Corner Brackets -->
+  <path d="M 1 26 L 1 11 Q 1 1 11 1 L 32 1" fill="none" stroke="#00F0FF" stroke-width="2"/>
+  <path d="M 1079 26 L 1079 11 Q 1079 1 1069 1 L 1048 1" fill="none" stroke="#00F0FF" stroke-width="2"/>
+  <path d="M 1 409 L 1 424 Q 1 434 11 434 L 32 434" fill="none" stroke="#00F0FF" stroke-width="2"/>
+  <path d="M 1079 409 L 1079 424 Q 1079 434 1069 434 L 1048 434" fill="none" stroke="#00F0FF" stroke-width="2"/>
+
+  <!-- Header -->
+  <rect x="16" y="14" width="1048" height="32" rx="6" fill="#0B1322" stroke="#1E3A5F" stroke-width="0.8"/>
+  <circle cx="32" cy="30" r="4.5" fill="#38BDF8"/>
+  <text x="45" y="34" class="font-mono" font-size="11.5" font-weight="700" fill="#E2E8F0" letter-spacing="1.3">COMBINED PROGRAMMING LANGUAGE DISTRIBUTION // ALL 55 REPOSITORIES AGGREGATED</text>
+  <text x="1048" y="34" text-anchor="end" class="font-mono" font-size="11" font-weight="700" fill="#38BDF8">25.6 MB INDEXED SOURCE &amp; ML ASSETS</text>
+
+  <!-- Full-Width Spectrum Strip -->
+  <rect x="16" y="54" width="1048" height="48" rx="8" fill="#0D1627" fill-opacity="0.78" stroke="#1E3A5F" stroke-width="0.9"/>
+  <text x="30" y="70" class="font-mono" font-size="9.5" font-weight="700" fill="#94A3B8" letter-spacing="1">PORTFOLIO-WIDE COMPOSITE LANGUAGE SPECTRUM (WEIGHTED BY REPOSITORY FOOTPRINT &amp; CODEBASE VOLUME)</text>
+  <rect x="30.0" y="78" width="236.5" height="14" rx="3" fill="#38BDF8"/><rect x="268.5" y="78" width="144.7" height="14" rx="3" fill="#FACC15"/><rect x="415.2" y="78" width="166.4" height="14" rx="3" fill="#F97316"/><rect x="583.6" y="78" width="114.4" height="14" rx="3" fill="#A855F7"/><rect x="700.0" y="78" width="122.2" height="14" rx="3" fill="#10B981"/><rect x="824.3" y="78" width="81.6" height="14" rx="3" fill="#6366F1"/><rect x="907.9" y="78" width="58.5" height="14" rx="3" fill="#00F0FF"/><rect x="968.4" y="78" width="79.6" height="14" rx="3" fill="#EC4899"/>
+
+  <!-- Left Panel: Combined Distribution Donut & Code Volume Share -->
+  <rect x="16" y="110" width="486" height="308" rx="8" fill="#0D1627" fill-opacity="0.78" stroke="#1E3A5F" stroke-width="0.9"/>
+  <text x="30" y="128" class="font-mono" font-size="10" font-weight="700" fill="#38BDF8" letter-spacing="1">COMBINED STACK SHARE &amp; CODEBASE VOLUME</text>
+
+  <!-- Donut Chart -->
+  <circle cx="138.0" cy="256.0" r="74.0" fill="none" stroke="#0B1322" stroke-width="22"/>
+  <circle cx="138.0" cy="256.0" r="74.0" fill="none" stroke="#38BDF8" stroke-width="20" stroke-dasharray="105.71 464.96" stroke-dashoffset="-0.00" transform="rotate(-90 138.0 256.0)"/><circle cx="138.0" cy="256.0" r="74.0" fill="none" stroke="#FACC15" stroke-width="20" stroke-dasharray="63.88 464.96" stroke-dashoffset="-108.71" transform="rotate(-90 138.0 256.0)"/><circle cx="138.0" cy="256.0" r="74.0" fill="none" stroke="#F97316" stroke-width="20" stroke-dasharray="73.77 464.96" stroke-dashoffset="-175.59" transform="rotate(-90 138.0 256.0)"/><circle cx="138.0" cy="256.0" r="74.0" fill="none" stroke="#A855F7" stroke-width="20" stroke-dasharray="50.07 464.96" stroke-dashoffset="-252.36" transform="rotate(-90 138.0 256.0)"/><circle cx="138.0" cy="256.0" r="74.0" fill="none" stroke="#10B981" stroke-width="20" stroke-dasharray="53.63 464.96" stroke-dashoffset="-305.43" transform="rotate(-90 138.0 256.0)"/><circle cx="138.0" cy="256.0" r="74.0" fill="none" stroke="#6366F1" stroke-width="20" stroke-dasharray="35.11 464.96" stroke-dashoffset="-362.06" transform="rotate(-90 138.0 256.0)"/><circle cx="138.0" cy="256.0" r="74.0" fill="none" stroke="#00F0FF" stroke-width="20" stroke-dasharray="24.57 464.96" stroke-dashoffset="-400.17" transform="rotate(-90 138.0 256.0)"/><circle cx="138.0" cy="256.0" r="74.0" fill="none" stroke="#EC4899" stroke-width="20" stroke-dasharray="34.22 464.96" stroke-dashoffset="-427.74" transform="rotate(-90 138.0 256.0)"/>
+  <circle cx="138.0" cy="256.0" r="54" fill="#08101D" stroke="#1E3A5F" stroke-width="1"/>
+  <text x="138.0" y="252.0" text-anchor="middle" class="font-sans" font-size="22" font-weight="800" fill="#F8FAFC">55</text>
+  <text x="138.0" y="269.0" text-anchor="middle" class="font-mono" font-size="8.5" font-weight="700" fill="#00F0FF">REPOSITORIES</text>
+  <text x="138.0" y="281.0" text-anchor="middle" class="font-mono" font-size="8" fill="#64748B">14 LANGUAGES</text>
+
+  <!-- Donut Legend -->
+  
+        <g transform="translate(242, 148)">
+          <rect x="0" y="-10" width="10" height="10" rx="2.5" fill="#38BDF8"/>
+          <text x="16" y="-1" class="font-sans" font-size="11.5" font-weight="700" fill="#F1F5F9">Python</text>
+          <text x="155" y="-1" text-anchor="end" class="font-mono" font-size="11" font-weight="700" fill="#38BDF8">23.4%</text>
+          <text x="166" y="-1" class="font-mono" font-size="10" fill="#94A3B8">(848 KB)</text>
+        </g>
+        <g transform="translate(242, 180)">
+          <rect x="0" y="-10" width="10" height="10" rx="2.5" fill="#FACC15"/>
+          <text x="16" y="-1" class="font-sans" font-size="11.5" font-weight="700" fill="#F1F5F9">JavaScript</text>
+          <text x="155" y="-1" text-anchor="end" class="font-mono" font-size="11" font-weight="700" fill="#FACC15">14.4%</text>
+          <text x="166" y="-1" class="font-mono" font-size="10" fill="#94A3B8">(4.84 MB)</text>
+        </g>
+        <g transform="translate(242, 212)">
+          <rect x="0" y="-10" width="10" height="10" rx="2.5" fill="#F97316"/>
+          <text x="16" y="-1" class="font-sans" font-size="11.5" font-weight="700" fill="#F1F5F9">HTML5 / WebGL</text>
+          <text x="155" y="-1" text-anchor="end" class="font-mono" font-size="11" font-weight="700" fill="#F97316">16.5%</text>
+          <text x="166" y="-1" class="font-mono" font-size="10" fill="#94A3B8">(3.29 MB)</text>
+        </g>
+        <g transform="translate(242, 244)">
+          <rect x="0" y="-10" width="10" height="10" rx="2.5" fill="#A855F7"/>
+          <text x="16" y="-1" class="font-sans" font-size="11.5" font-weight="700" fill="#F1F5F9">CSS3 / SCSS</text>
+          <text x="155" y="-1" text-anchor="end" class="font-mono" font-size="11" font-weight="700" fill="#A855F7">11.4%</text>
+          <text x="166" y="-1" class="font-mono" font-size="10" fill="#94A3B8">(1.01 MB)</text>
+        </g>
+        <g transform="translate(242, 276)">
+          <rect x="0" y="-10" width="10" height="10" rx="2.5" fill="#10B981"/>
+          <text x="16" y="-1" class="font-sans" font-size="11.5" font-weight="700" fill="#F1F5F9">Jupyter / ML</text>
+          <text x="155" y="-1" text-anchor="end" class="font-mono" font-size="11" font-weight="700" fill="#10B981">12.2%</text>
+          <text x="166" y="-1" class="font-mono" font-size="10" fill="#94A3B8">(10.99 MB)</text>
+        </g>
+        <g transform="translate(242, 308)">
+          <rect x="0" y="-10" width="10" height="10" rx="2.5" fill="#6366F1"/>
+          <text x="16" y="-1" class="font-sans" font-size="11.5" font-weight="700" fill="#F1F5F9">PHP</text>
+          <text x="155" y="-1" text-anchor="end" class="font-mono" font-size="11" font-weight="700" fill="#6366F1">8.2%</text>
+          <text x="166" y="-1" class="font-mono" font-size="10" fill="#94A3B8">(3.90 MB)</text>
+        </g>
+        <g transform="translate(242, 340)">
+          <rect x="0" y="-10" width="10" height="10" rx="2.5" fill="#00F0FF"/>
+          <text x="16" y="-1" class="font-sans" font-size="11.5" font-weight="700" fill="#F1F5F9">TypeScript</text>
+          <text x="155" y="-1" text-anchor="end" class="font-mono" font-size="11" font-weight="700" fill="#00F0FF">5.9%</text>
+          <text x="166" y="-1" class="font-mono" font-size="10" fill="#94A3B8">(626 KB)</text>
+        </g>
+        <g transform="translate(242, 372)">
+          <rect x="0" y="-10" width="10" height="10" rx="2.5" fill="#EC4899"/>
+          <text x="16" y="-1" class="font-sans" font-size="11.5" font-weight="700" fill="#F1F5F9">Shell / TeX</text>
+          <text x="155" y="-1" text-anchor="end" class="font-mono" font-size="11" font-weight="700" fill="#EC4899">8.0%</text>
+          <text x="166" y="-1" class="font-mono" font-size="10" fill="#94A3B8">(30 KB)</text>
+        </g>
+
+  <text x="30" y="405" class="font-sans" font-size="9.5" fill="#64748B">* Composite index balances active repository count with raw byte volume (15.3 MB source + 11.5 MB Jupyter outputs).</text>
+
+  <!-- Right Panel: Repository Presence & Architectural Footprint -->
+  <rect x="512" y="110" width="552" height="308" rx="8" fill="#0D1627" fill-opacity="0.78" stroke="#1E3A5F" stroke-width="0.9"/>
+  <text x="526" y="128" class="font-mono" font-size="10" font-weight="700" fill="#38BDF8" letter-spacing="1">REPOSITORY FOOTPRINT BY LANGUAGE &amp; ARCHITECTURAL ROLE</text>
+  
+        <g transform="translate(526, 142)">
+          <text x="0" y="0" class="font-sans" font-size="11" font-weight="700" fill="#E2E8F0">Python</text>
+          <text x="518" y="0" text-anchor="end" class="font-mono" font-size="10.5" font-weight="700" fill="#38BDF8">26 repos (23 primary)</text>
+          <rect x="0" y="6" width="518" height="8" rx="3" fill="#0B1322" stroke="#1E293B" stroke-width="0.6"/>
+          <rect x="0" y="6" width="490.0" height="8" rx="3" fill="#38BDF8"/>
+          <text x="0" y="24" class="font-sans" font-size="9.2" fill="#64748B">OSINT Harvesters · FastMCP Legal Server · Sentinels · AI Evaluators</text>
+        </g>
+        <g transform="translate(526, 176)">
+          <text x="0" y="0" class="font-sans" font-size="11" font-weight="700" fill="#E2E8F0">JavaScript (ES6+ / React / Next.js)</text>
+          <text x="518" y="0" text-anchor="end" class="font-mono" font-size="10.5" font-weight="700" fill="#FACC15">15 repos (7 primary)</text>
+          <rect x="0" y="6" width="518" height="8" rx="3" fill="#0B1322" stroke="#1E293B" stroke-width="0.6"/>
+          <rect x="0" y="6" width="282.7" height="8" rx="3" fill="#FACC15"/>
+          <text x="0" y="24" class="font-sans" font-size="9.2" fill="#64748B">SovDash 3D Cesium Globe · RankScope · Echo Chamber · AI Connections</text>
+        </g>
+        <g transform="translate(526, 210)">
+          <text x="0" y="0" class="font-sans" font-size="11" font-weight="700" fill="#E2E8F0">HTML5 / Canvas / WebGL</text>
+          <text x="518" y="0" text-anchor="end" class="font-mono" font-size="10.5" font-weight="700" fill="#F97316">19 repos (9 primary)</text>
+          <rect x="0" y="6" width="518" height="8" rx="3" fill="#0B1322" stroke="#1E293B" stroke-width="0.6"/>
+          <rect x="0" y="6" width="358.1" height="8" rx="3" fill="#F97316"/>
+          <text x="0" y="24" class="font-sans" font-size="9.2" fill="#64748B">Global AI Policy Tracker · Ethics Dashboard · Echo Realm RPG · Scorecard</text>
+        </g>
+        <g transform="translate(526, 244)">
+          <text x="0" y="0" class="font-sans" font-size="11" font-weight="700" fill="#E2E8F0">CSS3 / SCSS / Cyberpunk HUD</text>
+          <text x="518" y="0" text-anchor="end" class="font-mono" font-size="10.5" font-weight="700" fill="#A855F7">14 repos (1 primary)</text>
+          <rect x="0" y="6" width="518" height="8" rx="3" fill="#0B1322" stroke="#1E293B" stroke-width="0.6"/>
+          <rect x="0" y="6" width="263.8" height="8" rx="3" fill="#A855F7"/>
+          <text x="0" y="24" class="font-sans" font-size="9.2" fill="#64748B">Bespoke Dark-Mode Telemetry UI · Responsive Animations · Design Systems</text>
+        </g>
+        <g transform="translate(526, 278)">
+          <text x="0" y="0" class="font-sans" font-size="11" font-weight="700" fill="#E2E8F0">Jupyter / TensorFlow / ML</text>
+          <text x="518" y="0" text-anchor="end" class="font-mono" font-size="10.5" font-weight="700" fill="#10B981">8 repos (8 primary)</text>
+          <rect x="0" y="6" width="518" height="8" rx="3" fill="#0B1322" stroke="#1E293B" stroke-width="0.6"/>
+          <rect x="0" y="6" width="150.8" height="8" rx="3" fill="#10B981"/>
+          <text x="0" y="24" class="font-sans" font-size="9.2" fill="#64748B">Computer Vision · Neural Networks · Quantitative Finance · Data Visuals</text>
+        </g>
+        <g transform="translate(526, 312)">
+          <text x="0" y="0" class="font-sans" font-size="11" font-weight="700" fill="#E2E8F0">PHP / WordPress Architecture</text>
+          <text x="518" y="0" text-anchor="end" class="font-mono" font-size="10.5" font-weight="700" fill="#6366F1">4 repos (2 primary)</text>
+          <rect x="0" y="6" width="518" height="8" rx="3" fill="#0B1322" stroke="#1E293B" stroke-width="0.6"/>
+          <rect x="0" y="6" width="75.4" height="8" rx="3" fill="#6366F1"/>
+          <text x="0" y="24" class="font-sans" font-size="9.2" fill="#64748B">Custom Sovereign Themes · RankScope Self-Hosted Proxy · CMS Security</text>
+        </g>
+        <g transform="translate(526, 346)">
+          <text x="0" y="0" class="font-sans" font-size="11" font-weight="700" fill="#E2E8F0">TypeScript</text>
+          <text x="518" y="0" text-anchor="end" class="font-mono" font-size="10.5" font-weight="700" fill="#00F0FF">1 repos (1 primary)</text>
+          <rect x="0" y="6" width="518" height="8" rx="3" fill="#0B1322" stroke="#1E293B" stroke-width="0.6"/>
+          <rect x="0" y="6" width="18.8" height="8" rx="3" fill="#00F0FF"/>
+          <text x="0" y="24" class="font-sans" font-size="9.2" fill="#64748B">LAWS Disarmament Simulator · Article 36 Algorithmic Targeting Engine</text>
+        </g>
+        <g transform="translate(526, 380)">
+          <text x="0" y="0" class="font-sans" font-size="11" font-weight="700" fill="#E2E8F0">Shell / PowerShell / LaTeX / R</text>
+          <text x="518" y="0" text-anchor="end" class="font-mono" font-size="10.5" font-weight="700" fill="#EC4899">9 repos (1 primary)</text>
+          <rect x="0" y="6" width="518" height="8" rx="3" fill="#0B1322" stroke="#1E293B" stroke-width="0.6"/>
+          <rect x="0" y="6" width="169.6" height="8" rx="3" fill="#EC4899"/>
+          <text x="0" y="24" class="font-sans" font-size="9.2" fill="#64748B">CI/CD Pipelines · Autonomous GitHub Actions · LaTeX/R Academic Reports</text>
+        </g>
+</svg>
