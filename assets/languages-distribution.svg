@@ -29,12 +29,12 @@
   <rect x="16" y="14" width="1048" height="32" rx="6" fill="#0B1322" stroke="#1E3A5F" stroke-width="0.8"/>
   <circle cx="32" cy="30" r="4.5" fill="#38BDF8"/>
   <text x="45" y="34" class="font-mono" font-size="11.5" font-weight="700" fill="#E2E8F0" letter-spacing="1.3">COMBINED PROGRAMMING LANGUAGE DISTRIBUTION // ALL 55 REPOSITORIES AGGREGATED</text>
-  <text x="1048" y="34" text-anchor="end" class="font-mono" font-size="11" font-weight="700" fill="#38BDF8">25.5 MB INDEXED SOURCE &amp; ML ASSETS</text>
+  <text x="1048" y="34" text-anchor="end" class="font-mono" font-size="11" font-weight="700" fill="#38BDF8">25.8 MB INDEXED SOURCE &amp; ML ASSETS</text>
 
   <!-- Full-Width Spectrum Strip -->
   <rect x="16" y="54" width="1048" height="48" rx="8" fill="#0D1627" fill-opacity="0.78" stroke="#1E3A5F" stroke-width="0.9"/>
   <text x="30" y="70" class="font-mono" font-size="9.5" font-weight="700" fill="#94A3B8" letter-spacing="1">PORTFOLIO-WIDE COMPOSITE LANGUAGE SPECTRUM (WEIGHTED BY REPOSITORY FOOTPRINT &amp; CODEBASE VOLUME)</text>
-  <rect x="30.0" y="78" width="239.1" height="14" rx="3" fill="#38BDF8"/><rect x="271.1" y="78" width="144.3" height="14" rx="3" fill="#FACC15"/><rect x="417.4" y="78" width="165.9" height="14" rx="3" fill="#F97316"/><rect x="585.3" y="78" width="114.1" height="14" rx="3" fill="#A855F7"/><rect x="701.4" y="78" width="121.9" height="14" rx="3" fill="#10B981"/><rect x="825.2" y="78" width="81.4" height="14" rx="3" fill="#6366F1"/><rect x="908.6" y="78" width="58.3" height="14" rx="3" fill="#00F0FF"/><rect x="968.9" y="78" width="79.1" height="14" rx="3" fill="#EC4899"/>
+  <rect x="30.0" y="78" width="240.2" height="14" rx="3" fill="#38BDF8"/><rect x="272.2" y="78" width="142.4" height="14" rx="3" fill="#FACC15"/><rect x="416.6" y="78" width="163.8" height="14" rx="3" fill="#F97316"/><rect x="582.4" y="78" width="112.6" height="14" rx="3" fill="#A855F7"/><rect x="697.0" y="78" width="120.3" height="14" rx="3" fill="#10B981"/><rect x="819.3" y="78" width="80.3" height="14" rx="3" fill="#6366F1"/><rect x="901.5" y="78" width="66.4" height="14" rx="3" fill="#00F0FF"/><rect x="969.9" y="78" width="78.1" height="14" rx="3" fill="#EC4899"/>
 
   <!-- Left Panel: Combined Distribution Donut & Code Volume Share -->
   <rect x="16" y="110" width="486" height="308" rx="8" fill="#0D1627" fill-opacity="0.78" stroke="#1E3A5F" stroke-width="0.9"/>
@@ -42,7 +42,7 @@
 
   <!-- Donut Chart -->
   <circle cx="138.0" cy="256.0" r="74.0" fill="none" stroke="#0B1322" stroke-width="22"/>
-  <circle cx="138.0" cy="256.0" r="74.0" fill="none" stroke="#38BDF8" stroke-width="20" stroke-dasharray="106.89 464.96" stroke-dashoffset="-0.00" transform="rotate(-90 138.0 256.0)"/><circle cx="138.0" cy="256.0" r="74.0" fill="none" stroke="#FACC15" stroke-width="20" stroke-dasharray="63.68 464.96" stroke-dashoffset="-109.89" transform="rotate(-90 138.0 256.0)"/><circle cx="138.0" cy="256.0" r="74.0" fill="none" stroke="#F97316" stroke-width="20" stroke-dasharray="73.54 464.96" stroke-dashoffset="-176.57" transform="rotate(-90 138.0 256.0)"/><circle cx="138.0" cy="256.0" r="74.0" fill="none" stroke="#A855F7" stroke-width="20" stroke-dasharray="49.92 464.96" stroke-dashoffset="-253.12" transform="rotate(-90 138.0 256.0)"/><circle cx="138.0" cy="256.0" r="74.0" fill="none" stroke="#10B981" stroke-width="20" stroke-dasharray="53.46 464.96" stroke-dashoffset="-306.03" transform="rotate(-90 138.0 256.0)"/><circle cx="138.0" cy="256.0" r="74.0" fill="none" stroke="#6366F1" stroke-width="20" stroke-dasharray="35.00 464.96" stroke-dashoffset="-362.50" transform="rotate(-90 138.0 256.0)"/><circle cx="138.0" cy="256.0" r="74.0" fill="none" stroke="#00F0FF" stroke-width="20" stroke-dasharray="24.49 464.96" stroke-dashoffset="-400.49" transform="rotate(-90 138.0 256.0)"/><circle cx="138.0" cy="256.0" r="74.0" fill="none" stroke="#EC4899" stroke-width="20" stroke-dasharray="33.97 464.96" stroke-dashoffset="-427.98" transform="rotate(-90 138.0 256.0)"/>
+  <circle cx="138.0" cy="256.0" r="74.0" fill="none" stroke="#38BDF8" stroke-width="20" stroke-dasharray="107.40 464.96" stroke-dashoffset="-0.00" transform="rotate(-90 138.0 256.0)"/><circle cx="138.0" cy="256.0" r="74.0" fill="none" stroke="#FACC15" stroke-width="20" stroke-dasharray="62.83 464.96" stroke-dashoffset="-110.40" transform="rotate(-90 138.0 256.0)"/><circle cx="138.0" cy="256.0" r="74.0" fill="none" stroke="#F97316" stroke-width="20" stroke-dasharray="72.56 464.96" stroke-dashoffset="-176.23" transform="rotate(-90 138.0 256.0)"/><circle cx="138.0" cy="256.0" r="74.0" fill="none" stroke="#A855F7" stroke-width="20" stroke-dasharray="49.24 464.96" stroke-dashoffset="-251.79" transform="rotate(-90 138.0 256.0)"/><circle cx="138.0" cy="256.0" r="74.0" fill="none" stroke="#10B981" stroke-width="20" stroke-dasharray="52.74 464.96" stroke-dashoffset="-304.03" transform="rotate(-90 138.0 256.0)"/><circle cx="138.0" cy="256.0" r="74.0" fill="none" stroke="#6366F1" stroke-width="20" stroke-dasharray="34.51 464.96" stroke-dashoffset="-359.77" transform="rotate(-90 138.0 256.0)"/><circle cx="138.0" cy="256.0" r="74.0" fill="none" stroke="#00F0FF" stroke-width="20" stroke-dasharray="28.17 464.96" stroke-dashoffset="-397.28" transform="rotate(-90 138.0 256.0)"/><circle cx="138.0" cy="256.0" r="74.0" fill="none" stroke="#EC4899" stroke-width="20" stroke-dasharray="33.50 464.96" stroke-dashoffset="-428.46" transform="rotate(-90 138.0 256.0)"/>
   <circle cx="138.0" cy="256.0" r="54" fill="#08101D" stroke="#1E3A5F" stroke-width="1"/>
   <text x="138.0" y="252.0" text-anchor="middle" class="font-sans" font-size="22" font-weight="800" fill="#F8FAFC">55</text>
   <text x="138.0" y="269.0" text-anchor="middle" class="font-mono" font-size="8.5" font-weight="700" fill="#00F0FF">REPOSITORIES</text>
@@ -53,49 +53,49 @@
         <g transform="translate(242, 148)">
           <rect x="0" y="-10" width="10" height="10" rx="2.5" fill="#38BDF8"/>
           <text x="16" y="-1" class="font-sans" font-size="11.5" font-weight="700" fill="#F1F5F9">Python</text>
-          <text x="155" y="-1" text-anchor="end" class="font-mono" font-size="11" font-weight="700" fill="#38BDF8">23.6%</text>
-          <text x="166" y="-1" class="font-mono" font-size="10" fill="#94A3B8">(846 KB)</text>
+          <text x="155" y="-1" text-anchor="end" class="font-mono" font-size="11" font-weight="700" fill="#38BDF8">23.7%</text>
+          <text x="166" y="-1" class="font-mono" font-size="10" fill="#94A3B8">(871 KB)</text>
         </g>
         <g transform="translate(242, 180)">
           <rect x="0" y="-10" width="10" height="10" rx="2.5" fill="#FACC15"/>
           <text x="16" y="-1" class="font-sans" font-size="11.5" font-weight="700" fill="#F1F5F9">JavaScript</text>
-          <text x="155" y="-1" text-anchor="end" class="font-mono" font-size="11" font-weight="700" fill="#FACC15">14.3%</text>
+          <text x="155" y="-1" text-anchor="end" class="font-mono" font-size="11" font-weight="700" fill="#FACC15">14.2%</text>
           <text x="166" y="-1" class="font-mono" font-size="10" fill="#94A3B8">(4.84 MB)</text>
         </g>
         <g transform="translate(242, 212)">
           <rect x="0" y="-10" width="10" height="10" rx="2.5" fill="#F97316"/>
           <text x="16" y="-1" class="font-sans" font-size="11.5" font-weight="700" fill="#F1F5F9">HTML5 / WebGL</text>
-          <text x="155" y="-1" text-anchor="end" class="font-mono" font-size="11" font-weight="700" fill="#F97316">16.5%</text>
+          <text x="155" y="-1" text-anchor="end" class="font-mono" font-size="11" font-weight="700" fill="#F97316">16.3%</text>
           <text x="166" y="-1" class="font-mono" font-size="10" fill="#94A3B8">(3.29 MB)</text>
         </g>
         <g transform="translate(242, 244)">
           <rect x="0" y="-10" width="10" height="10" rx="2.5" fill="#A855F7"/>
           <text x="16" y="-1" class="font-sans" font-size="11.5" font-weight="700" fill="#F1F5F9">CSS3 / SCSS</text>
-          <text x="155" y="-1" text-anchor="end" class="font-mono" font-size="11" font-weight="700" fill="#A855F7">11.4%</text>
+          <text x="155" y="-1" text-anchor="end" class="font-mono" font-size="11" font-weight="700" fill="#A855F7">11.2%</text>
           <text x="166" y="-1" class="font-mono" font-size="10" fill="#94A3B8">(1.01 MB)</text>
         </g>
         <g transform="translate(242, 276)">
           <rect x="0" y="-10" width="10" height="10" rx="2.5" fill="#10B981"/>
           <text x="16" y="-1" class="font-sans" font-size="11.5" font-weight="700" fill="#F1F5F9">Jupyter / ML</text>
-          <text x="155" y="-1" text-anchor="end" class="font-mono" font-size="11" font-weight="700" fill="#10B981">12.1%</text>
+          <text x="155" y="-1" text-anchor="end" class="font-mono" font-size="11" font-weight="700" fill="#10B981">12.0%</text>
           <text x="166" y="-1" class="font-mono" font-size="10" fill="#94A3B8">(10.99 MB)</text>
         </g>
         <g transform="translate(242, 308)">
           <rect x="0" y="-10" width="10" height="10" rx="2.5" fill="#6366F1"/>
           <text x="16" y="-1" class="font-sans" font-size="11.5" font-weight="700" fill="#F1F5F9">PHP</text>
-          <text x="155" y="-1" text-anchor="end" class="font-mono" font-size="11" font-weight="700" fill="#6366F1">8.2%</text>
+          <text x="155" y="-1" text-anchor="end" class="font-mono" font-size="11" font-weight="700" fill="#6366F1">8.1%</text>
           <text x="166" y="-1" class="font-mono" font-size="10" fill="#94A3B8">(3.90 MB)</text>
         </g>
         <g transform="translate(242, 340)">
           <rect x="0" y="-10" width="10" height="10" rx="2.5" fill="#00F0FF"/>
           <text x="16" y="-1" class="font-sans" font-size="11.5" font-weight="700" fill="#F1F5F9">TypeScript</text>
-          <text x="155" y="-1" text-anchor="end" class="font-mono" font-size="11" font-weight="700" fill="#00F0FF">5.9%</text>
-          <text x="166" y="-1" class="font-mono" font-size="10" fill="#94A3B8">(626 KB)</text>
+          <text x="155" y="-1" text-anchor="end" class="font-mono" font-size="11" font-weight="700" fill="#00F0FF">6.7%</text>
+          <text x="166" y="-1" class="font-mono" font-size="10" fill="#94A3B8">(919 KB)</text>
         </g>
         <g transform="translate(242, 372)">
           <rect x="0" y="-10" width="10" height="10" rx="2.5" fill="#EC4899"/>
           <text x="16" y="-1" class="font-sans" font-size="11.5" font-weight="700" fill="#F1F5F9">Shell / TeX</text>
-          <text x="155" y="-1" text-anchor="end" class="font-mono" font-size="11" font-weight="700" fill="#EC4899">8.0%</text>
+          <text x="155" y="-1" text-anchor="end" class="font-mono" font-size="11" font-weight="700" fill="#EC4899">7.9%</text>
           <text x="166" y="-1" class="font-mono" font-size="10" fill="#94A3B8">(28 KB)</text>
         </g>
 
@@ -107,7 +107,7 @@
   
         <g transform="translate(526, 142)">
           <text x="0" y="0" class="font-sans" font-size="11" font-weight="700" fill="#E2E8F0">Python</text>
-          <text x="518" y="0" text-anchor="end" class="font-mono" font-size="10.5" font-weight="700" fill="#38BDF8">26 repos (24 primary)</text>
+          <text x="518" y="0" text-anchor="end" class="font-mono" font-size="10.5" font-weight="700" fill="#38BDF8">27 repos (24 primary)</text>
           <rect x="0" y="6" width="518" height="8" rx="3" fill="#0B1322" stroke="#1E293B" stroke-width="0.6"/>
           <rect x="0" y="6" width="490.0" height="8" rx="3" fill="#38BDF8"/>
           <text x="0" y="24" class="font-sans" font-size="9.2" fill="#64748B">OSINT Harvesters · FastMCP Legal Server · Sentinels · AI Evaluators</text>
@@ -116,49 +116,49 @@
           <text x="0" y="0" class="font-sans" font-size="11" font-weight="700" fill="#E2E8F0">JavaScript (ES6+ / React / Next.js)</text>
           <text x="518" y="0" text-anchor="end" class="font-mono" font-size="10.5" font-weight="700" fill="#FACC15">15 repos (7 primary)</text>
           <rect x="0" y="6" width="518" height="8" rx="3" fill="#0B1322" stroke="#1E293B" stroke-width="0.6"/>
-          <rect x="0" y="6" width="282.7" height="8" rx="3" fill="#FACC15"/>
+          <rect x="0" y="6" width="272.2" height="8" rx="3" fill="#FACC15"/>
           <text x="0" y="24" class="font-sans" font-size="9.2" fill="#64748B">SovDash 3D Cesium Globe · RankScope · Echo Chamber · AI Connections</text>
         </g>
         <g transform="translate(526, 210)">
           <text x="0" y="0" class="font-sans" font-size="11" font-weight="700" fill="#E2E8F0">HTML5 / Canvas / WebGL</text>
           <text x="518" y="0" text-anchor="end" class="font-mono" font-size="10.5" font-weight="700" fill="#F97316">19 repos (9 primary)</text>
           <rect x="0" y="6" width="518" height="8" rx="3" fill="#0B1322" stroke="#1E293B" stroke-width="0.6"/>
-          <rect x="0" y="6" width="358.1" height="8" rx="3" fill="#F97316"/>
+          <rect x="0" y="6" width="344.8" height="8" rx="3" fill="#F97316"/>
           <text x="0" y="24" class="font-sans" font-size="9.2" fill="#64748B">Global AI Policy Tracker · Ethics Dashboard · Echo Realm RPG · Scorecard</text>
         </g>
         <g transform="translate(526, 244)">
           <text x="0" y="0" class="font-sans" font-size="11" font-weight="700" fill="#E2E8F0">CSS3 / SCSS / Cyberpunk HUD</text>
           <text x="518" y="0" text-anchor="end" class="font-mono" font-size="10.5" font-weight="700" fill="#A855F7">14 repos (1 primary)</text>
           <rect x="0" y="6" width="518" height="8" rx="3" fill="#0B1322" stroke="#1E293B" stroke-width="0.6"/>
-          <rect x="0" y="6" width="263.8" height="8" rx="3" fill="#A855F7"/>
+          <rect x="0" y="6" width="254.1" height="8" rx="3" fill="#A855F7"/>
           <text x="0" y="24" class="font-sans" font-size="9.2" fill="#64748B">Bespoke Dark-Mode Telemetry UI · Responsive Animations · Design Systems</text>
         </g>
         <g transform="translate(526, 278)">
           <text x="0" y="0" class="font-sans" font-size="11" font-weight="700" fill="#E2E8F0">Jupyter / TensorFlow / ML</text>
           <text x="518" y="0" text-anchor="end" class="font-mono" font-size="10.5" font-weight="700" fill="#10B981">8 repos (8 primary)</text>
           <rect x="0" y="6" width="518" height="8" rx="3" fill="#0B1322" stroke="#1E293B" stroke-width="0.6"/>
-          <rect x="0" y="6" width="150.8" height="8" rx="3" fill="#10B981"/>
+          <rect x="0" y="6" width="145.2" height="8" rx="3" fill="#10B981"/>
           <text x="0" y="24" class="font-sans" font-size="9.2" fill="#64748B">Computer Vision · Neural Networks · Quantitative Finance · Data Visuals</text>
         </g>
         <g transform="translate(526, 312)">
           <text x="0" y="0" class="font-sans" font-size="11" font-weight="700" fill="#E2E8F0">PHP / WordPress Architecture</text>
           <text x="518" y="0" text-anchor="end" class="font-mono" font-size="10.5" font-weight="700" fill="#6366F1">4 repos (2 primary)</text>
           <rect x="0" y="6" width="518" height="8" rx="3" fill="#0B1322" stroke="#1E293B" stroke-width="0.6"/>
-          <rect x="0" y="6" width="75.4" height="8" rx="3" fill="#6366F1"/>
+          <rect x="0" y="6" width="72.6" height="8" rx="3" fill="#6366F1"/>
           <text x="0" y="24" class="font-sans" font-size="9.2" fill="#64748B">Custom Sovereign Themes · RankScope Self-Hosted Proxy · CMS Security</text>
         </g>
         <g transform="translate(526, 346)">
           <text x="0" y="0" class="font-sans" font-size="11" font-weight="700" fill="#E2E8F0">TypeScript</text>
-          <text x="518" y="0" text-anchor="end" class="font-mono" font-size="10.5" font-weight="700" fill="#00F0FF">1 repos (1 primary)</text>
+          <text x="518" y="0" text-anchor="end" class="font-mono" font-size="10.5" font-weight="700" fill="#00F0FF">2 repos (2 primary)</text>
           <rect x="0" y="6" width="518" height="8" rx="3" fill="#0B1322" stroke="#1E293B" stroke-width="0.6"/>
-          <rect x="0" y="6" width="18.8" height="8" rx="3" fill="#00F0FF"/>
+          <rect x="0" y="6" width="36.3" height="8" rx="3" fill="#00F0FF"/>
           <text x="0" y="24" class="font-sans" font-size="9.2" fill="#64748B">LAWS Disarmament Simulator · Article 36 Algorithmic Targeting Engine</text>
         </g>
         <g transform="translate(526, 380)">
           <text x="0" y="0" class="font-sans" font-size="11" font-weight="700" fill="#E2E8F0">Shell / PowerShell / LaTeX / R</text>
           <text x="518" y="0" text-anchor="end" class="font-mono" font-size="10.5" font-weight="700" fill="#EC4899">9 repos (1 primary)</text>
           <rect x="0" y="6" width="518" height="8" rx="3" fill="#0B1322" stroke="#1E293B" stroke-width="0.6"/>
-          <rect x="0" y="6" width="169.6" height="8" rx="3" fill="#EC4899"/>
+          <rect x="0" y="6" width="163.3" height="8" rx="3" fill="#EC4899"/>
           <text x="0" y="24" class="font-sans" font-size="9.2" fill="#64748B">CI/CD Pipelines · Autonomous GitHub Actions · LaTeX/R Academic Reports</text>
         </g>
 </svg>
